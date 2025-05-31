@@ -34,6 +34,6 @@ Glance of Dashboard: https://public.tableau.com/app/profile/riya.prajapati3320/v
 
 ## 📁 Project Structure
 
-├── HR_Analytics.twbx       # Tableau Workbook File (replace with your actual file name)
-├── HR data.csv             # (Optional) Dataset used in Tableau
-└── README.md               # This file
+├── HR_Analytics.twbx       
+├── HR data.csv             
+└── README.md              
